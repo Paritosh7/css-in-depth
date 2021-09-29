@@ -1,0 +1,7 @@
+1. Only vertical margins collapse.
+
+2. Margin collapse is unique to Flow layout. If you have children inside a display: flex parent, those children's margins will never collapse.
+
+3. Any element between two others will block margins from collapsing. Elements need to be adjacent in the DOM for their margins to collapse.
+
+4. The bigger margin always wins. 

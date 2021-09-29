@@ -1,0 +1,3 @@
+Learnt about 
+1. How " display:inline ", "display:block", "display : inline-block" behaves. 
+2. 
